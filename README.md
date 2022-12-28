@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @nnveter, FrontEnd developer
+- 👋 Hi, I'm @nnveter, Front-End developer
 - 👀 I’m interested in C#
 - 📫 How to reach me: https://t.me/korzik_l
 
